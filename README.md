@@ -1,10 +1,3 @@
-
-
-<!---
-hyesukim1/hyesukim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ### 자기 소개
 안녕하세요. 데이터 사이언티스트를 꿈꾸는 김혜수입니다.
 
