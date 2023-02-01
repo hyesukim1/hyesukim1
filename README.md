@@ -5,7 +5,7 @@
 
 컴퓨터가 사람의 눈을 대신해 물체를 인식하고 분류하여 비즈니스 영역에 새로운 가치를 창출하는 업무를 수행하고 싶습니다.
 
-- 👩‍💻 resume : [노션 이력서](https://unexpected-polyester-f20.notion.site/2b85257aff8d4834ac02b4422c8b6d79)
+- 👩‍💻 resume : [노션 이력서](https://www.notion.so/2b85257aff8d4834ac02b4422c8b6d79)
 - 📲 Mobile : 010-9811-7246
 - 📧 E-mail : rlagt7246@naver.com
 - 🏠 Blog :  🔗 [https://velog.io/@hyesukim1](https://velog.io/@hyesukim1)
